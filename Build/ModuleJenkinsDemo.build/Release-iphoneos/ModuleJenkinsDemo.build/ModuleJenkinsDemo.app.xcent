@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>4Z78PCW342.com.daniel.ios.ModuleJenkinsDemo</string>
+	<string>D9Y5V6R5LD.com.daniel.ios.ModuleJenkinsDemo</string>
 	<key>com.apple.developer.team-identifier</key>
-	<string>4Z78PCW342</string>
+	<string>D9Y5V6R5LD</string>
 	<key>get-task-allow</key>
 	<true/>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>4Z78PCW342.com.daniel.ios.ModuleJenkinsDemo</string>
+		<string>D9Y5V6R5LD.com.daniel.ios.ModuleJenkinsDemo</string>
 	</array>
 </dict>
 </plist>
